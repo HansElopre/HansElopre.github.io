@@ -1,2 +1,2 @@
 # HansElopre.github.io
-Hans Michael M. Elopre
+Hans Michael Elopre

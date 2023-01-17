@@ -1,6 +1,8 @@
 # HansElopre.github.io
 Hans Michael M. Elopre
 
+![](https://genshin.honeyhunterworld.com/img/sucrose_043_gacha_splash.webp)
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/29aTwimS2uTsPewZRyp5Hf?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ![](https://i.pinimg.com/564x/31/bd/80/31bd80eac6f205fec58cb2c88c382226.jpg)
